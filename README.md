@@ -8,3 +8,4 @@
 🤠 Outside of tech I enjoy watching/reviewing films, playing guitar, going to the gym, and reading philosophy/sociology books
 
 Feel free to reach out to collaborate or chat.
+Check out my blog [here](https://medium.com/@wast3r_).
