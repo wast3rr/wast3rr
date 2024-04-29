@@ -5,6 +5,6 @@
 🖥️ My most familiar language is Python, however I have experience in C, Java, JS, and Rust\
 💽 I'm interested in many different fields but primarily backend dev, systems programming, and security engineering\
 ✍🏼 I'm currently studying Cybersecurity outside of my degree and studying to get my Sec+\
-🤠 Outside of tech I enjoy watching/reviewing films, playing video games, going to the gym, and reading philosophy/sociology books\
+🤠 Outside of tech I enjoy watching/reviewing films, playing video games, going to the gym, and reading philosophy/sociology books
 
 Feel free to reach out to collaborate or chat.
