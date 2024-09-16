@@ -1,7 +1,7 @@
 ### Hello, friend
 
 🎓 I'm currently a student at Rutgers University majoring in Comp Sci, graduating 2025\
-👔 I'm an incoming Summer 2025 TIP for Capital One\
+👔 I'm an incoming 2025 TDP (New Grad SWE) for Capital One\
 🖥️ My most familiar language is Python, however I have experience in C, Java, JS, and Rust\
 💽 I'm interested in many different fields but primarily backend dev, systems programming, and security engineering\
 ✍🏼 I'm currently studying Cybersecurity outside of my degree and studying to get my Sec+\
